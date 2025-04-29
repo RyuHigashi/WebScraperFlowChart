@@ -109,7 +109,7 @@
         <mxCell id="sK5Jodp4tm3qd7X9ubTK-56" value="Tem cupom?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1880" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sK5Jodp4tm3qd7X9ubTK-60" value="Formato:&lt;br&gt;{&lt;div&gt;Produto_Imagem&lt;br&gt;&lt;br&gt;[Emoji] **Produto_Nome**&lt;br&gt;&lt;br&gt;[Emoji] R$ Produto_Preço&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+        <mxCell id="sK5Jodp4tm3qd7X9ubTK-60" value="Formato:&lt;br&gt;{&lt;div&gt;Produto_Imagem&lt;br&gt;&lt;br&gt;[Emoji] **Produto_Nome**&lt;br&gt;&lt;br&gt;[Emoji] R$ Produto_Preço&amp;nbsp;&lt;/div&gt;&lt;div&gt;Produto_InfoParcelamento&lt;br&gt;&lt;br&gt;[Emoji] Produto_UrlAfiliado&lt;br&gt;&lt;br&gt;Outros Produtos: UrlLoja&lt;br&gt;&lt;br&gt;[Emoji] Promoções [Emoji]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1525" width="250" height="250" as="geometry" />
         </mxCell>
       </root>
